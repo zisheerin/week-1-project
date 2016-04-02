@@ -1,1 +1,2 @@
-# week-1-project
+# Week 1
+My first GA repo
